@@ -1,0 +1,26 @@
+.container {
+  flex: 1;
+  background-color: #fff;
+  padding: 16px;
+}
+.modal-content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.mark-pick-text {
+  font-size: 1.6rem;
+  letter-spacing: 0.26;
+  color: #090a0b;
+  margin-top: 1.6rem;
+}
+.pick-instruction-text {
+  font-size: 1.2rem;
+  letter-spacing: 0.18;
+  color: #090a0b;
+  margin-top: 0.8rem;
+}
+.pagination {
+  margin-top: 15px;
+}
